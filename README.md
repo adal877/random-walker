@@ -18,4 +18,5 @@ You can use some keys to play araound this:
 **When a walker is deleted, the path it has been AREN'T deleted
 
 ## Final result
-<img src="https://github.com/adal877/random-walker/final_example.png" widht="640" height="480"/>
+<img src="https://github.com/adal877/random-walker/image.png" widht="640" height="480"/>
+(using the ```s``` key).
